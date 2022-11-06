@@ -1,2 +1,2 @@
 # FCC-Tribute-Page
-Responsive Web Design Projects from Free Code Academy
+Responsive Web Design Project from Free Code Academy
